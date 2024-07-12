@@ -12,6 +12,7 @@ Designed to focus on operational efficiency and user satisfaction, the system ut
 
 -[@siddharth](https://github.com/siddharthrajs)
 
+-[@Vikram](https://github.com/vikramcs17)
 
 ## Contributing
 
